@@ -1,3 +1,5 @@
+// the name of the file and folder is wrong!! you lesrned about component based architecture
+// always statrts with capital letters, Crypto-tracker -> Crypto-tracker.jsx
 // remove react import statement, if you are not using it otherwise you are pulling in unnecessary resources
 // same here
 import React, { useEffect, useState } from "react";
