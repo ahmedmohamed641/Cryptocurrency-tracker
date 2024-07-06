@@ -1,6 +1,5 @@
-import React from "react";
 import "./App.css";
-import CryptoTracker from "./cryptoTracker/cryptoTracker";
+import CryptoTracker from "./Crypto-tracker/Crypto-tracker";
 
 function App() {
   return (
