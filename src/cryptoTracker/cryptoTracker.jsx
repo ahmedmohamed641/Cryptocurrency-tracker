@@ -1,3 +1,5 @@
+// remove react import statement, if you are not using it otherwise you are pulling in unnecessary resources
+// same here
 import React, { useEffect, useState } from "react";
 
 function CryptoTracker() {
