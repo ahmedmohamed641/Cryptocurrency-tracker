@@ -1,3 +1,4 @@
+// remove react import statement, if you are not using it otherwise you are pulling in unnecessary resources
 import React from "react";
 import "./App.css";
 import CryptoTracker from "./cryptoTracker/cryptoTracker";
